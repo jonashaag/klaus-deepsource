@@ -46,7 +46,7 @@ For starters, `here are a few ideas what to work on. <https://github.com/jonasha
 .. _img3: https://i.imgur.com/kx2HaTq.png
 
 
-Installation
+Installationx
 ------------
 ::
 
